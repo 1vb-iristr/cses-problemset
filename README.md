@@ -1,2 +1,5 @@
-# cses-problemset
-My own solution to the CSES Problemset. Will be updated frequently as I go through each problems.
+# CSES Problem Set
+
+My own solution to the CSES problems.  
+
+Will be frequently updated. \- Iris
